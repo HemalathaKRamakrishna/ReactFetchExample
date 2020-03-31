@@ -1,2 +1,0 @@
-# ReactFetchExample
-Created with CodeSandbox
